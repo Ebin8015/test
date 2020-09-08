@@ -4,4 +4,8 @@ hello worldlooparray
 
 loop
 array
+functions
+oops
+
+
 
